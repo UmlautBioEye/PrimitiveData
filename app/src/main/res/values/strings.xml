@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PrimitiveData</string>
+    <string name="strStoreVar">Store Variable</string>
+    <string name="strRetrieveVar">Retrieve Variable</string>
+    <string name="strValueWillAppearHere">Value will appear here</string>
+    <string name="strEnterAValueHere">Enter a Byte value here</string>
+    <string name="strPleaseEnterValidValue">Please enter a valid value for a byte variable</string>
+</resources>
