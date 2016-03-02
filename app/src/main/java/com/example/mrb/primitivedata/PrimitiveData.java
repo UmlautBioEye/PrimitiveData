@@ -40,6 +40,6 @@ public class PrimitiveData extends AppCompatActivity {
 
     public void retrieveVariable(View vw)
     {
-        txtvwOutput.setText(String.format(Locale.CANADA, Byte.toString(bytOurVariable)));
+        txtvwOutput.setText(Byte.toString(bytOurVariable));
     }
 }
